@@ -4,4 +4,4 @@
 
 URL с выполненным ТЗ выглядит следующим образом
 
-http://127.0.0.1:8000/url_name/?name=Rekruto&message=Давай дружить!
+"http://127.0.0.1:8000/url_name/?name=Rekruto&message=Давай дружить!"
